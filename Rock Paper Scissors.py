@@ -1,4 +1,5 @@
 # Version 1 — Basic Game
+
 import random
 
 choice = ("rock", "paper" , "scissors")
@@ -23,7 +24,8 @@ else:
 
 
 
-# with score and play again 
+# Version 2 — Score & Replay
+
 import random
 
 choice = ("rock", "paper", "scissors")
