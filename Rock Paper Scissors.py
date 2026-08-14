@@ -1,4 +1,4 @@
-# without score and play again 
+# Version 1 — Basic Game
 import random
 
 choice = ("rock", "paper" , "scissors")
